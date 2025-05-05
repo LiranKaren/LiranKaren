@@ -7,7 +7,7 @@ Passionate about building secure, scalable systems and eager to contribute to im
 
 ## 🚀 About Me
 
-I'm a dedicated junior developer with a strong interest in system administration and network infrastructure. My hands-on experience includes configuring networks, managing Windows Active Directory environments, and developing solutions in Linux. I'm committed to continuous learning and excited to apply my skills in a professional setting.
+I'm a dedicated junior with a strong interest in system administration and network infrastructure. My hands-on experience includes configuring networks, managing Windows Active Directory environments, and developing solutions in Linux. I'm committed to continuous learning and excited to apply my skills in a professional setting.
 
 ---
 

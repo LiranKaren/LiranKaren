@@ -1,13 +1,13 @@
 <h1>👋 Hello, I'm Liran Karen<h1>
 
 <h2>🎓 Junior IT Enthusiast | 💼 Seeking Entry-Level Opportunities<h2>
-Passionate about building secure, scalable systems and eager to contribute to impactful projects.
+<b>Passionate about building secure, scalable systems and eager to contribute to impactful projects.<b>
 
 ---
 
 <h1>🚀 About Me<h1>
 
-I'm a dedicated junior with a strong interest in system administration and network infrastructure. My hands-on experience includes configuring networks, managing Windows Active Directory environments, and developing solutions in Linux. I'm committed to continuous learning and excited to apply my skills in a professional setting.
+<b>I'm a dedicated junior with a strong interest in system administration and network infrastructure. My hands-on experience includes configuring networks, managing Windows Active Directory environments, and developing solutions in Linux. I'm committed to continuous learning and excited to apply my skills in a professional setting.<b>
 
 ---
 
@@ -50,11 +50,11 @@ I'm a dedicated junior with a strong interest in system administration and netwo
 
 </h1>📫 Let's Connect</h1>
 
-I'm actively seeking entry-level opportunities where I can contribute and grow. Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions.
+<b>I'm actively seeking entry-level opportunities where I can contribute and grow. Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions.<b>
 
-- 📧 Email: lirankeren21@gmail.com(mailto:lirankeren21@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/lirankaren](https://www.linkedin.com/in/lirankaren)  
+<b>- 📧 Email: lirankeren21@gmail.com(mailto:lirankeren21@gmail.com)<b>  
+<b>- 💼 LinkedIn: [linkedin.com/in/lirankaren](https://www.linkedin.com/in/lirankaren)<b>  
 
 ---
 
-*“The best way to predict the future is to invent it.” – Alan Kay*
+<b>*“The best way to predict the future is to invent it.” – Alan Kay*<b>

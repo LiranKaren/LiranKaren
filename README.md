@@ -57,7 +57,7 @@ I'm actively seeking entry-level opportunities where I can contribute and grow.
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions.
 
 - 📧 Email: [lirankeren21@gmail.com](mailto:lirankeren21@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/lirankaren](https://www.linkedin.com/in/lirankaren)
+- 💼 LinkedIn: [https://www.linkedin.com/in/liran-karen/](https://www.linkedin.com/in/liran-karen/)
 
 ---
 

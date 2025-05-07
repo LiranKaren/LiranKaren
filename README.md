@@ -33,13 +33,15 @@ and developing solutions in Linux. I'm committed to continuous learning and exci
 - **Network Monitoring Dashboard:**  
   Developed a dashboard using Wireshark and Grafana to visualize real-time network traffic and identify anomalies.
 
-## 🪟 Windows Active Directory
+🪟 Windows Active Directory
+- Enterprise AD Lab Deployment:
+ Built a full Active Directory lab using Windows Server 2022 and Windows 10 clients to simulate a real-world enterprise network.
 
-- **AD Automation Scripts:**  
-  Created PowerShell scripts to automate user account creation and permission assignments in Active Directory.
+- Domain Services & Networking:
+ Configured AD DS, DNS, and DHCP; structured Organizational Units and security groups to reflect departmental roles.
 
-- **Group Policy Management:**  
-  Implemented GPOs to enforce security settings and software installations across a Windows domain.
+- Group Policy & Access Control:
+ Implemented GPOs for drive mapping, desktop restrictions, and password policies; managed file shares using NTFS and share-level permissions.
 
 ## 🐧 Linux
 

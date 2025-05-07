@@ -33,7 +33,7 @@ and developing solutions in Linux. I'm committed to continuous learning and exci
 - **Network Monitoring Dashboard:**  
   Developed a dashboard using Wireshark and Grafana to visualize real-time network traffic and identify anomalies.
 
-🪟 Windows Active Directory
+## 🪟 Windows Active Directory 
 - Enterprise AD Lab Deployment:
  Built a full Active Directory lab using Windows Server 2022 and Windows 10 clients to simulate a real-world enterprise network.
 

@@ -27,11 +27,9 @@ and developing solutions in Linux. I'm committed to continuous learning and exci
 
 ## 🌐 Networking
 
-- **Secure Home Network Setup:**  
-  Configured a home network with VLANs and firewall rules using pfSense to segment and secure traffic.
-
-- **Network Monitoring Dashboard:**  
-  Developed a dashboard using Wireshark and Grafana to visualize real-time network traffic and identify anomalies.
+## 🌐 Enterprise Network Infrastructure
+  [Enterprise-Network-Infrastructure](https://github.com/LiranKaren/Enterprise-Network-Infrastructure):
+Designed and implemented a simulated enterprise-grade network topology using Cisco Packet Tracer, featuring multiple branch offices connected via GRE over IPsec tunnels. Configured OSPF routing, VLAN segmentation, DHCP, and inter-office communication policies to emulate a secure and scalable business environment.
 
 ## 🪟 Windows Active Directory 
   [Enterprise AD Lab Deployment](https://github.com/LiranKaren/windows-ad-enterprise-lab):  

@@ -29,6 +29,7 @@ and developing solutions in Linux. I'm committed to continuous learning and exci
 
 ## 🌐 Enterprise Network Infrastructure
   [Enterprise-Network-Infrastructure](https://github.com/LiranKaren/Enterprise-Network-Infrastructure):
+  
 Designed and implemented a simulated enterprise-grade network topology using Cisco Packet Tracer, featuring multiple branch offices connected via GRE over IPsec tunnels. Configured OSPF routing, VLAN segmentation, DHCP, and inter-office communication policies to emulate a secure and scalable business environment.
 
 ## 🪟 Windows Active Directory 

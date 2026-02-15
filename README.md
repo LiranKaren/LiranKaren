@@ -53,14 +53,6 @@ I am a continuous learner, constantly expanding my technical toolkit through ind
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049ad7.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-
 • **Domain Services & Networking:**
  Configured AD DS, DNS, and DHCP; structured Organizational Units and security groups to reflect departmental roles.
 

@@ -37,6 +37,30 @@ Designed and implemented a simulated enterprise-grade network topology using Cis
 • **Enterprise AD Lab Deployment:**
  Built a full Active Directory lab using Windows Server 2022 and Windows 10 clients to simulate a real-world enterprise network.
 
+ ---
+
+ ## 🎓 Professional Development & Certifications
+
+I am a continuous learner, constantly expanding my technical toolkit through industry-recognized courses and hands-on labs. My focus is on bridging the gap between theoretical cybersecurity and enterprise-level implementation.
+
+### 🛡️ Cybersecurity & Offensive Operations
+* **CompTIA Security+ Exam Prep** | [cite_start]Focused on threat analysis, PKI, and secure network architecture[cite: 11].
+* **Complete Ethical Hacking Bootcamp** | [cite_start]Executed penetration testing and vulnerability assessments using **Kali Linux, Nmap, and Metasploit** to mitigate critical security gaps and harden networks[cite: 12, 13].
+
+### ☁️ Cloud & Infrastructure
+* **Microsoft Azure Fundamentals (AZ-900)** | [cite_start]Mastering cloud infrastructure, storage solutions, and identity management[cite: 12].
+* **macOS Administration (Zero to Hero)** | [cite_start]Advanced system configuration, terminal commands, and troubleshooting for Apple enterprise environments[cite: 14].
+
+---
+
+### 🛠️ Tech Stack & Tools
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049ad7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+
 • **Domain Services & Networking:**
  Configured AD DS, DNS, and DHCP; structured Organizational Units and security groups to reflect departmental roles.
 

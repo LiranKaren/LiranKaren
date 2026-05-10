@@ -8,18 +8,42 @@ Passionate about building secure, scalable systems and eager to contribute to im
 
 # 🚀 About Me
 
-I'm a dedicated junior with a strong interest in system administration and network infrastructure.  
-My hands-on experience includes configuring networks, managing Windows Active Directory environments,  
-and developing solutions in Linux. I'm committed to continuous learning and excited to apply my skills in a professional setting.
+IT Tier 2 professional with six months of experience managing large scale deployments and complex troubleshooting. I am now looking to transition into a challenging IT role that offers opportunities for professional growth and continuous learning.
 
 ---
 
 # 🧰 Technical Skills
+Networking & Security
 
-- **Networking:** TCP/IP, DNS, DHCP, VPNs, Firewall Configuration  
-- **Windows AD:** User and Group Management, GPOs, Domain Services  
-- **Linux:** Shell Scripting, Systemd, Package Management, Bash  
-- **Tools & Platforms:** Wireshark, Git, VMware, VirtualBox
+Protocols: TCP/IP, DNS, DHCP, VLANs, Subnetting, VPNs
+
+Routing & Redundancy: Static/Dynamic Routing (OSPF, RIP), HSRP, NAT
+
+Security: FortiGate NGFW, Firewall Configuration, IPsec VPN, ACLs, Port Security
+
+Analysis Tools: Wireshark, Nmap
+
+Infrastructure & Virtualization
+
+Windows AD: Active Directory, User/Group Management, GPO, Domain Services
+
+Identity & Cloud: Microsoft Entra ID (Azure AD), Microsoft 365, IAM
+
+Virtualization: VMware vSphere (ESXi, vCenter), VirtualBox
+
+Deployment: MDT, SCCM
+
+Operating Systems & Scripting
+
+Windows: Server 2019/2022, Windows 10/11, macOS Administration
+
+Linux: Ubuntu, CentOS, Shell Scripting, Bash, Systemd, Package Management
+
+IT Ops & Development
+
+Tools: Git, ServiceNow (ITSM), SLA Management
+
+Methodology: Technical Documentation, Troubleshooting Methodology, Process Optimization
 
 ---
 
